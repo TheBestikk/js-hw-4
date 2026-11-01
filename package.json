@@ -1,0 +1,10 @@
+{
+  "name": "my-todo-list",
+  "version": "1.0.0",
+  "description": "Список задач на Node.js",
+  "author": "Кирило Захаров",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  }
+}
